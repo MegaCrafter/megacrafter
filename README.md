@@ -1,5 +1,5 @@
 # MegaCrafter
-Hi! I'm a versatile programmer. I have the ability of learning everything faster than the average person. This allows me to try so many things in small portions of time.
+Hi! I'm a versatile programmer. I have the ability of learning everything faster than the average person. This allows me to try so many things in small portions of time. (This is not bragging. Just stating a personal trait. Please no r/iamverysmart)
 
 ## Some Examples Of My Programming Fields
 Desktop apps, mobile apps (android, flutter), web apps (full stack), networking (communication with packets), competitive programming, low-level systems...
